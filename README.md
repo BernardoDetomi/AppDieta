@@ -18,7 +18,7 @@ Seja bem-vindo ao **SmartBite.AI**, o aplicativo inteligente desenvolvido por Be
 ## 🖼️ Layout do Aplicativo
 
 ### Tela 1 - Tela Inicial
-![Tela Inicial](./prints/Screenshot_2.png)
+<img src="./prints/Screenshot_2.png" alt="Tela Inicial" width="300"/>
 
 ### Tela 2 - Formulário de Dados Pessoais
 ![Formulário](./prints/Screenshot_3.png)
