@@ -21,19 +21,19 @@ Seja bem-vindo ao **SmartBite.AI**, o aplicativo inteligente desenvolvido por Be
 <img src="./prints/Screenshot_2.png" alt="Tela Inicial" width="300"/>
 
 ### Tela 2 - Formulário de Dados Pessoais
-![Formulário](./prints/Screenshot_3.png)
+<img src="./prints/Screenshot_3.png" alt="Formulário" width="300"/>
 
 ### Tela 3 - Escolhas Personalizadas
-![Escolhas](./prints/Screenshot_5.png)
+<img src="./prints/Screenshot_5.png" alt="Escolhas" width="300"/>
 
 ### Tela 3.5 - Gerando dieta
-![Gerando](./prints/Screenshot_8.png)
+<img src="./prints/Screenshot_8.png" alt="Gerando" width="300"/>
 
 ### Tela 4 - Dieta Gerada
-![Dieta Gerada](./prints/Screenshot_9.png)
+<img src="./prints/Screenshot_9.png" alt="Dieta Gerada" width="300"/>
 
 ### Tela 5 - Compartilhando dieta
-![Compartilhando dieta](./prints/Screenshot_11.png)
+<img src="./prints/Screenshot_11.png" alt="Compartilhando dieta" width="300"/>
 
 ### Tela 6 - Arquivo gerado
 ![Arquivo gerado](./prints/Screenshot_1.jpg)
