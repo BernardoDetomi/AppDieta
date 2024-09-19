@@ -36,7 +36,7 @@ Seja bem-vindo ao **SmartBite.AI**, o aplicativo inteligente desenvolvido por Be
 ![Compartilhando dieta](./prints/Screenshot_11.png)
 
 ### Tela 6 - Arquivo gerado
-![Arquivo gerado](./prints/Screenshot_1.png)
+![Arquivo gerado](./prints/Screenshot_1.jpg)
 
 ## 🛠️ Tecnologias Utilizadas
 
